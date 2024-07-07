@@ -34,7 +34,7 @@ for Api_Tokens,User_IDs,Message_APIs in zip(ApiTokens,UserAgents,UserIDs,Message
         "apitoken": f"{Api_Tokens}",
         "User-Agent": f"{User_Agents}",
         "Content-Type": "application/json;charset=UTF-8",
-        "Referer": "http://gzsx.qidisoft.cn/WXPlatGZSXStu/dist/index.html?v=202205201635",
+        "Referer": "http://gzsx.qidisoft.cn/WXPlatGZSXStu/dist/index.html",
         "Accept-Encoding": "gzip, deflate",
     }
 
