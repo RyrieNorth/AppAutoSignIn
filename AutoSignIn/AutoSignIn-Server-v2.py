@@ -22,7 +22,7 @@ headers = {
     "Host": "gzsx.qidisoft.cn",
     "Connection": "keep-alive",
     "Content-Type": "application/json;charset=UTF-8",
-    "Referer": "http://gzsx.qidisoft.cn/WXPlatGZSXStu/dist/index.html?v=202205201635",
+    "Referer": "http://gzsx.qidisoft.cn/WXPlatGZSXStu/dist/index.html",
     "Accept-Encoding": "gzip, deflate",
 }
 
