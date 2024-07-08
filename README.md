@@ -7,4 +7,4 @@
 
 # AppAutoSignIn v3 版本改为命令行运行逻辑
 登录：python autoSignIn-v3.py login -t 2 -u admin -p admin </br>
-签到：python autoSignIn-v3.py signin -t 2 -u admin -p admin
+签到：python autoSignIn-v3.py signin
