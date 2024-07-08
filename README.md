@@ -62,11 +62,11 @@ Step.8 </br>
 ## 关于UA、Token与地理位置长什么样
 这里有几个例子
 
-UA：Mozilla/5.0 (Linux; Android 12; V2154A Build/SP1A.210812.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/86.0.4240.99 XWEB/4255 MMWEBSDK/20220505 Mobile Safari/537.36 MMWEBID/7437 MicroMessenger/8.0.23.2160(0x28001757) WeChat/arm64 Weixin NetType/WIFI Language/en ABI/arm64
+UA：Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 NetType/WIFI MicroMessenger/7.0.20.1781(0x6700143B) WindowsWechat(0x63090b13) XWEB/9185 Flue </br>
 
-Token：vBsCYe3Ze0qFev8wjzeX1DxJ9mdFs0xvNmXRwaSX716qTgFcp48L54l/xxxxx
+Token：vBsCYe3xxxx/xxxxx </br>
 
-地理位置：{"apiName":"gzsxWebApi.DoSignin","UserID":"ADM202011xxxxx","lat":"23.xxxx","lng":"113.xxxx","distance":"xxxx","accuracy":"xx","address":"xx省xx市xx区xx街道xx街x号之9xx街xx号大院","type":1,"locationStatus":"2","signinStatus":"1","remark":"","fileJson":"[]"}
+地理位置：{"apiName":"gzsxWebApi.DoSignin","UserID":"ADMxxxxxxxxx","lat":"xx.xxxx","lng":"xxx.xxxx","distance":"xxxx","accuracy":"xx","address":"xx省xx市xx区","type":1,"locationStatus":"2","signinStatus":"1","remark":"","fileJson":"[]"}
 
 记得Token与Jsons不要填错，Token填错别人别人是不会感谢你的，地理位置填的时候不要异想天开，因为你填南极都可以(只要腾讯有)
 
