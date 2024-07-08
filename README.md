@@ -9,6 +9,8 @@
 登录：python autoSignIn-v3.py login -t 2 -u admin -p admin </br>
 签到：python autoSignIn-v3.py signin
 
+# 须知
+pip install request
 
 ## 使用方式
 Step.1 </br>
