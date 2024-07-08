@@ -9,6 +9,23 @@
 登录：python autoSignIn-v3.py login -t 2 -u admin -p admin </br>
 签到：python autoSignIn-v3.py signin
 
+# release中有已编译好的版本
+使用方式如下：
+</br>
+Windows:
+</br>
+autoSignIn-v3.exe login -t 2 -u admin -p admin
+</br>
+autoSignIn-v3.exe signin
+</br>
+
+Linux (Linux下需要对该文件添加执行权限, chmod +x autoSignIn-v3):
+</br>
+autoSignIn-v3 login -t 2 -u admin -p admin
+</br>
+autoSignIn-v3 signin
+</br>
+ 
 # 须知
 pip install request
 
