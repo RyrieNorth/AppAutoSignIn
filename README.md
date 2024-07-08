@@ -12,7 +12,7 @@
 # 须知
 pip install request
 
-## 使用方式
+## 使用方式(v3版本不用往下看)
 Step.1 </br>
 安装Fiddler，然后一直无脑Next即可
 
